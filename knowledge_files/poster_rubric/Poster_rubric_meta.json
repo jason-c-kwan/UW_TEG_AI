@@ -1,0 +1,821 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "The Scientific Method",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "More on scientific hypotheses and how to test them",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                641.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reading and writing scientific papers",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The sections of a scientific paper",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                599.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Finding cited papers and others relevant to the subject",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                503.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The incredible hidden world of bacterial diversity",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Why do bacteria make antibiotics?",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                344.0,
+                0.0
+            ]
+        },
+        {
+            "title": "More on the evolved function of small molecules",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                590.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Documenting your research",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Different data types",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Unlocking the world of unculturable bacteria",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                297.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Data types worksheet",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Finding data using public resources",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Targeted 16S gene sequence",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                583.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Whole genome sequence",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Targeted metagenomic sequence (aka amplicon sequences)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Tracking down a specific set of 16S amplicon sequences",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                506.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Land acknowledgments",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Setting up a CyVerse account",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Taxonomic classification of bacteria",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Using 16S data to identify and count bacteria in a sample",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Bash Cheat Sheet",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Analyzing bacterial community structure with 16S amplicons",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "How a 16S rRNA amplicon experiment is carried out",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1. Experimental steps",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                654.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2. Analytical steps",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                306.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Dummy data dataset",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Drawing rarefaction curves",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Estimating bacterial diversity from amplicon data",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Plotting bacterial diversity from amplicon data",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Beta-diversity estimates from amplicon data",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Plotting NMDS results from amplicon data",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Pairwise ANOSIM analysis",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                207.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Plotting OTU abundance as stacked barplots",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Shotgun metagenomic data analysis",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "How do we measure bin/MAG quality?",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                313.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Using CheckM to assess genome completeness and contamination",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                668.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Running a CheckM analysis on KBase",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Taxonomic classification of genome bins",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Identification of a bacterium via autoMLST",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                364.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Identification of a bacterium via GTDB-Tk",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "General genome stats",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Specialized functions of bacteria beyond small molecule production",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Annotating a genome",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Types of specialized metabolite",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Polyketides",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                641.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Peptides",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                627.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Ribosomally-synthesized and post-translationally modified peptides (RiPPs)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                641.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Nonribosomal peptide synthetases (NRPSs)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Terpenes",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "And many more!",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                231.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Clustering of specialized metabolite genes",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Finding biosynthetic gene clusters with antiSMASH",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Online antiSMASH for a single genome",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                245.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Stand alone antiSMASH",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Comparing BGCs with BiG-SCAPE and Clinker",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Tiny Earth Genomics Report Rubric",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Tiny Earth Genomics Poster Rubric",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "General notes",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                560.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Graded as a group - poster design and scientific rigor",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                364.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Graded individually - oral presentation (25 points)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                262.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 3,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
