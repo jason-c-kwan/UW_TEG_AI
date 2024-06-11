@@ -1,6 +1,6 @@
 # Tiny Earth Genomics AI Assistant
 
-If you would like to try out the Tiny Earth Genomics AI assistant I made, you can access it on [Hugging Chat](https://hf.co/chat/assistant/666773d008ce33273d7057e1). I am still in the process of optimizing it over the summer so it might not be the best right now but will probably improve.
+If you would like to try out the Tiny Earth Genomics AI assistant I made, you can access [here](https://hf.co/chat/assistant/666773d008ce33273d7057e1). I am still in the process of optimizing it over the summer so it might not be the best right now but will probably improve.
 
 You can view the prompt I am using for the assistant [here](prompts/TEG_bot_prompt.md).
 
